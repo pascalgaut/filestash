@@ -2,6 +2,9 @@ package plugin
 
 import (
 	. "github.com/mickael-kerjean/filestash/server/common"
+	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_application_3d"
+	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_application_dev"
+	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_application_map"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_authenticate_htpasswd"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_authenticate_ldap"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_authenticate_local"
@@ -9,6 +12,7 @@ import (
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_authenticate_passthrough"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_authenticate_saml"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_backend_artifactory"
+	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_backend_azure"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_backend_backblaze"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_backend_dav"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_backend_dropbox"
@@ -26,7 +30,7 @@ import (
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_backend_storj"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_backend_tmp"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_backend_webdav"
-	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_editor_wopi"
+	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_editor_onlyoffice"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_handler_console"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_image_ascii"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_image_c"
