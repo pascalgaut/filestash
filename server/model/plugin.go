@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
+	. "github.com/pascalgaut/filestash/server/common"
 )
 
 var PLUGINS = map[string]PluginImpl{}

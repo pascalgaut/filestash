@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
+	. "github.com/pascalgaut/filestash/server/common"
 
 	"github.com/Azure/azure-sdk-for-go/sdk/storage/azblob"
 	"github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/container"

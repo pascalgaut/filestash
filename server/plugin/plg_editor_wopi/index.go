@@ -1,7 +1,7 @@
 package plg_editor_wopi
 
 import (
-	. "github.com/mickael-kerjean/filestash/server/common"
+	. "github.com/pascalgaut/filestash/server/common"
 )
 
 func init() {

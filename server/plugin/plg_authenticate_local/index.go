@@ -3,8 +3,8 @@ package plg_authenticate_local
 import (
 	"net/http"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
-	"github.com/mickael-kerjean/filestash/server/middleware"
+	. "github.com/pascalgaut/filestash/server/common"
+	"github.com/pascalgaut/filestash/server/middleware"
 
 	"github.com/gorilla/mux"
 )

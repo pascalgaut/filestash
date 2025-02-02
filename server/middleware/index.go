@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
+	. "github.com/pascalgaut/filestash/server/common"
 )
 
 func init() {

@@ -3,7 +3,7 @@ package plg_authenticate_local
 import (
 	"encoding/json"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
+	. "github.com/pascalgaut/filestash/server/common"
 )
 
 func getPluginData() (pluginConfig, error) {

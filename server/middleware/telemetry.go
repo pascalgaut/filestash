@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
+	. "github.com/pascalgaut/filestash/server/common"
 )
 
 var telemetry = Telemetry{Data: make([]LogEntry, 0)}

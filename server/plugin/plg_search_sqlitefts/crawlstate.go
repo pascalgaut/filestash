@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"sync"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
+	. "github.com/pascalgaut/filestash/server/common"
 )
 
 var SProc SearchProcess = SearchProcess{

@@ -11,10 +11,10 @@ import (
 	"strings"
 	"text/template"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
-	"github.com/mickael-kerjean/filestash/server/ctrl"
-	"github.com/mickael-kerjean/filestash/server/middleware"
-	"github.com/mickael-kerjean/filestash/server/model"
+	. "github.com/pascalgaut/filestash/server/common"
+	"github.com/pascalgaut/filestash/server/ctrl"
+	"github.com/pascalgaut/filestash/server/middleware"
+	"github.com/pascalgaut/filestash/server/model"
 
 	"github.com/gorilla/mux"
 )

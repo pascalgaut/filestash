@@ -1,4 +1,4 @@
-module github.com/mickael-kerjean/filestash
+module github.com/pascalgaut/filestash
 
 go 1.23
 
@@ -17,8 +17,8 @@ require (
 	github.com/h2non/bimg v1.1.9
 	github.com/hirochachacha/go-smb2 v1.1.0
 	github.com/mattn/go-sqlite3 v1.14.22
-	github.com/mickael-kerjean/net v0.0.0-20191120063050-2457c043ba06
-	github.com/mickael-kerjean/saml v0.0.0-20240603162924-4629e91322ce
+	github.com/pascalgaut/net v0.0.0-20191120063050-2457c043ba06
+	github.com/pascalgaut/saml v0.0.0-20240603162924-4629e91322ce
 	github.com/mitchellh/hashstructure v1.1.0
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
 	github.com/patrickmn/go-cache v2.1.0+incompatible

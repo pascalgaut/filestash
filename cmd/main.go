@@ -6,11 +6,11 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"github.com/mickael-kerjean/filestash"
-	. "github.com/mickael-kerjean/filestash/server"
-	. "github.com/mickael-kerjean/filestash/server/common"
-	. "github.com/mickael-kerjean/filestash/server/ctrl"
-	_ "github.com/mickael-kerjean/filestash/server/plugin"
+	"github.com/pascalgaut/filestash"
+	. "github.com/pascalgaut/filestash/server"
+	. "github.com/pascalgaut/filestash/server/common"
+	. "github.com/pascalgaut/filestash/server/ctrl"
+	_ "github.com/pascalgaut/filestash/server/plugin"
 )
 
 func main() {

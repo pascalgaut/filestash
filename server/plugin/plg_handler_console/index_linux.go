@@ -17,7 +17,7 @@ import (
 	"time"
 	"unsafe"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
+	. "github.com/pascalgaut/filestash/server/common"
 
 	"github.com/creack/pty"
 	"github.com/gorilla/mux"

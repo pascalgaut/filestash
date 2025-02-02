@@ -5,9 +5,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
-	"github.com/mickael-kerjean/filestash/server/model"
-	"github.com/mickael-kerjean/net/webdav"
+	. "github.com/pascalgaut/filestash/server/common"
+	"github.com/pascalgaut/filestash/server/model"
+	"github.com/pascalgaut/net/webdav"
 )
 
 func WebdavHandler(ctx *App, res http.ResponseWriter, req *http.Request) {

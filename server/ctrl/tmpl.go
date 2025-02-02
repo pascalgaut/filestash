@@ -6,7 +6,7 @@ import (
 	"strings"
 	"text/template"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
+	. "github.com/pascalgaut/filestash/server/common"
 )
 
 var tmplFuncs = template.FuncMap{

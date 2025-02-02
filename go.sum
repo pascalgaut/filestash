@@ -273,10 +273,10 @@ github.com/mattn/go-isatty v0.0.20 h1:xfD0iDuEKnDkl03q4limB+vH+GxLEtL/jb4xVJSWWE
 github.com/mattn/go-isatty v0.0.20/go.mod h1:W+V8PltTTMOvKvAeJH7IuucS94S2C6jfK/D7dTCTo3Y=
 github.com/mattn/go-sqlite3 v1.14.22 h1:2gZY6PC6kBnID23Tichd1K+Z0oS6nE/XwU+Vz/5o4kU=
 github.com/mattn/go-sqlite3 v1.14.22/go.mod h1:Uh1q+B4BYcTPb+yiD3kU8Ct7aC0hY9fxUwlHK0RXw+Y=
-github.com/mickael-kerjean/net v0.0.0-20191120063050-2457c043ba06 h1:427Mpu5edwuFuDBdqOm6EgRohYqZ9Oomd+87ryW2Uls=
-github.com/mickael-kerjean/net v0.0.0-20191120063050-2457c043ba06/go.mod h1:K5atEXcXMSGE5O2cPGjggOqCb5lKRaieqgNJHEwS/IE=
-github.com/mickael-kerjean/saml v0.0.0-20240603162924-4629e91322ce h1:FVTh1LDCRr6fYm3meiJFIZcsrO29WYDLPIT+BwTiyYQ=
-github.com/mickael-kerjean/saml v0.0.0-20240603162924-4629e91322ce/go.mod h1:at9E70cOrnu43GZqrHni63ifAI+3QHzzSQqqUHCiwoQ=
+github.com/pascalgaut/net v0.0.0-20191120063050-2457c043ba06 h1:427Mpu5edwuFuDBdqOm6EgRohYqZ9Oomd+87ryW2Uls=
+github.com/pascalgaut/net v0.0.0-20191120063050-2457c043ba06/go.mod h1:K5atEXcXMSGE5O2cPGjggOqCb5lKRaieqgNJHEwS/IE=
+github.com/pascalgaut/saml v0.0.0-20240603162924-4629e91322ce h1:FVTh1LDCRr6fYm3meiJFIZcsrO29WYDLPIT+BwTiyYQ=
+github.com/pascalgaut/saml v0.0.0-20240603162924-4629e91322ce/go.mod h1:at9E70cOrnu43GZqrHni63ifAI+3QHzzSQqqUHCiwoQ=
 github.com/mitchellh/go-homedir v1.1.0 h1:lukF9ziXFxDFPkA1vsr5zpc1XuPDn/wFntq5mG+4E0Y=
 github.com/mitchellh/go-homedir v1.1.0/go.mod h1:SfyaCUpYCn1Vlf4IUYiD9fPX4A5wJrkLzIz1N1q0pr0=
 github.com/mitchellh/hashstructure v1.1.0 h1:P6P1hdjqAAknpY/M1CGipelZgp+4y9ja9kmUZPXP+H0=

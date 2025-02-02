@@ -16,8 +16,8 @@ import (
 	"sync"
 	"time"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
-	"github.com/mickael-kerjean/filestash/server/model"
+	. "github.com/pascalgaut/filestash/server/common"
+	"github.com/pascalgaut/filestash/server/model"
 )
 
 type FileInfo struct {

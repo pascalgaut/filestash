@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
-	"github.com/mickael-kerjean/filestash/server/plugin/plg_backend_nfs4/repo/nfs4"
+	. "github.com/pascalgaut/filestash/server/common"
+	"github.com/pascalgaut/filestash/server/plugin/plg_backend_nfs4/repo/nfs4"
 )
 
 const DEFAULT_PORT = ":2049"

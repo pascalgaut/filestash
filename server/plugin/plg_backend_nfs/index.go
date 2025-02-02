@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
+	. "github.com/pascalgaut/filestash/server/common"
 
 	"github.com/vmware/go-nfs-client/nfs"
 	"github.com/vmware/go-nfs-client/nfs/rpc"

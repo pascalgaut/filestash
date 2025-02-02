@@ -4,7 +4,7 @@ import (
 	"sort"
 	"strings"
 
-	. "github.com/mickael-kerjean/filestash/server/common"
+	. "github.com/pascalgaut/filestash/server/common"
 
 	"golang.org/x/crypto/bcrypt"
 )
