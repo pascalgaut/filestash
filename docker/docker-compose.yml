@@ -37,8 +37,10 @@
 
 services:
   app:
+    build:
+      context: .
+      image: machines/filestash:latest
     container_name: filestash
-    image: machines/filestash:latest
     restart: always
     environment:
     - APPLICATION_URL=
