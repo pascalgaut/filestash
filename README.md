@@ -1,7 +1,7 @@
 ![screenshot](https://raw.githubusercontent.com/mickael-kerjean/filestash_images/master/.assets/photo.jpg)
 
 <p align="center">
-    <a href="https://github.com/pascalgaut/contributors" alt="Contributors">
+    <a href="https://github.com/mickael-kerjean/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/mickael-kerjean/filestash" style="max-width:100%;">
     </a>
     <a href="https://hub.docker.com/r/machines/filestash" alt="Docker Hub">

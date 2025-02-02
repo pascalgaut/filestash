@@ -18,7 +18,7 @@ import (
 	"time"
 
 	. "github.com/pascalgaut/filestash/server/common"
-	"github.com/pascalgaut/net/webdav"
+	"github.com/mickael-kerjean/net/webdav"
 )
 
 var webdav_cache AppCache
