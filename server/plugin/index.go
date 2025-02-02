@@ -2,9 +2,6 @@ package plugin
 
 import (
 	. "github.com/pascalgaut/filestash/server/common"
-	_ "github.com/pascalgaut/filestash/server/plugin/plg_application_3d"
-	_ "github.com/pascalgaut/filestash/server/plugin/plg_application_dev"
-	_ "github.com/pascalgaut/filestash/server/plugin/plg_application_map"
 	_ "github.com/pascalgaut/filestash/server/plugin/plg_authenticate_htpasswd"
 	_ "github.com/pascalgaut/filestash/server/plugin/plg_authenticate_ldap"
 	_ "github.com/pascalgaut/filestash/server/plugin/plg_authenticate_local"
